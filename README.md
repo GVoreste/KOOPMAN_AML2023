@@ -16,13 +16,13 @@ The purpose of the project was to try to replicate the results of the work done 
 
 The authors make available all the data providing some matlab script to generate it or downloading it from [here](https://anl.app.box.com/s/9s29juzu892dfkhgxa1n1q4mj63nxabn).
 
-> **N.B.** our Network notebook expect to find the data in a directory called `data` in the same location of the Network itself
+> **N.B.** our Network notebook expects to find the data in a directory called `data` in the same location of the Network itself
 
 The systems analized by the authors are:
 
-1. a sytem with **discrete spectrum**
-2. a **fluid flow** in a box
-3. a **fluid** placed under the influence of an **attractor**
-4. a non linear **pendulum**
+1. A system described by a **discrete spectrum**
+2. A **fluid flowing** in a box
+3. A **fluid flowing** on an **attractor**
+4. A non-linear **pendulum**
 
 this are all examples of non linear dynamics.
