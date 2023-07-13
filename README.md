@@ -25,4 +25,4 @@ The systems analized by the authors are:
 3. A **fluid** flowing on an **attractor**
 4. A non-linear **pendulum**
 
-this are all examples of non linear dynamics.
+These are all examples of non-linear dynamics.
